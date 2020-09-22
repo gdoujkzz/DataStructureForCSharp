@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QjTs0ZUpLX4sOH6/CDsZv2kUVR+AylEMK9y8gD5eqPxf3yiAAbyuxB9JKixrh1bxb2PyK2gtqeCtNTPEcwP3Dg==",
+  "success": true,
+  "projectFilePath": "D:\\BaiduNetdiskDownload\\01bibibi\\算法和数据结构视频\\DataStructureForCSharp\\DataStructureForCSharp\\com.gdoujkzz.linearlist\\com.gdoujkzz.linearlist.csproj",
+  "expectedPackageFiles": [
+    "D:\\MyData\\zhangzhen26\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "D:\\MyData\\zhangzhen26\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
